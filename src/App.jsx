@@ -1,14 +1,14 @@
 import React from "react";
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import Home from "./Components/Home";
+import Header from "./Components/Landing Page In React/Header";
+import Footer from "./Components/Landing Page In React/Footer";
+
 
 const App = () => {
   return (
     <div>
-      <Header />
+      {/* <Header />
       <Home />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 };
